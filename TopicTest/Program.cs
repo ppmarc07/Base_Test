@@ -892,7 +892,8 @@ namespace StaticVarApplication
     }
 }
 */
-
+//基类和派生类
+/*
 namespace InheritanceApplication
 {
     class shape
@@ -931,7 +932,10 @@ namespace InheritanceApplication
         }
     }
 }
+*/
 
+//C# 继承
+//https://www.runoob.com/csharp/csharp-inheritance.html
 
 namespace TopicTest
 {
